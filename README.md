@@ -5,7 +5,7 @@ QA Ops demo
 
 This project demonstrates the integration of QA practices into DevOps pipelines, enabling continuous quality assurance throughout the software development lifecycle.
 
-Simple express app.
+Simple express app with unit, integration and e2e tests.
 
 ## Features
 
